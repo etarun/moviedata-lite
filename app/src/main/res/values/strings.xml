@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieDataLite</string>
+    <string name="offline_mode_msg">Internet UnAvailable</string>
+    <string name="toolbar_title">Discover</string>
+</resources>
