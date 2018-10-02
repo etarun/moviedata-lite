@@ -9,6 +9,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
+import com.github.ivbaranov.mfb.MaterialFavoriteButton;
 import com.movies.moviedata.BaseActivity;
 import com.movies.moviedata.R;
 import com.movies.moviedata.data.Genre;
@@ -109,7 +110,7 @@ public class MovieDetailActivity extends BaseActivity implements MovieDetailCont
             tv.setText(g.getName());
             tv.setId(i + 5);
             LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(
-                    LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+                    LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
             layoutParams.setMargins(0, 0, 10, 0);
             tv.setPadding(15,15,15,15);
             tv.setTextColor(getResources().getColor(R.color.colorWhite));
