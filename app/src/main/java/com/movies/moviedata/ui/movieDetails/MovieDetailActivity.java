@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.movies.moviedata.BaseActivity;
-import com.doordash.doordashlite.R;
+import com.movies.moviedata.R;
 import com.movies.moviedata.data.Genre;
 import com.movies.moviedata.data.Movie;
 import com.movies.moviedata.Properties;

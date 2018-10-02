@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.doordash.doordashlite.R;
+import com.movies.moviedata.R;
 import com.movies.moviedata.data.Movie;
 
 import java.util.List;

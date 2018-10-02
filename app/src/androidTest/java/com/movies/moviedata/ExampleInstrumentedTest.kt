@@ -1,4 +1,4 @@
-package com.doordash.doordashlite
+package com.movies.moviedata
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

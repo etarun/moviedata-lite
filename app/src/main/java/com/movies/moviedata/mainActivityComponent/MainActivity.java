@@ -6,7 +6,7 @@ import android.support.v7.widget.Toolbar;
 import android.widget.FrameLayout;
 
 import com.movies.moviedata.BaseActivity;
-import com.doordash.doordashlite.R;
+import com.movies.moviedata.R;
 import com.movies.moviedata.ui.movies.MoviesFragment;
 
 import butterknife.BindView;

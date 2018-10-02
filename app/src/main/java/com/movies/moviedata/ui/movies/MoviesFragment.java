@@ -15,7 +15,7 @@ import android.view.ViewGroup;
 import android.widget.ProgressBar;
 
 import com.movies.moviedata.BaseFragmentInteractionListener;
-import com.doordash.doordashlite.R;
+import com.movies.moviedata.R;
 import com.movies.moviedata.dagger.AppComponent;
 import com.movies.moviedata.data.Movie;
 import com.movies.moviedata.mvp.BaseView;
